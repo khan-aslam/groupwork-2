@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Montserrat:wght@700&family=Open+Sans&family=Playfair+Display:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{;
+
+
+} 
+
+
+.row{ }
+#one{display:flex;
+
+
+}
+
+.one{margin: 55px;
+    width: 600px;
+    height: 430px;
+    background-image: url('../img/8.png');
+    position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+ h1{
+position: absolute;
+color: aliceblue;
+font-weight: 700;
+font-family: 'Montserrat', sans-serif;
+line-height: 0;
+
+}
+.two{background-color: ;
+   
+    width: 600px;
+    height: 430px;
+    margin: 25px;
+    
+    }
+
+
+.three{
+    width: 600px;
+     height:200px;
+     background-image: url('../img/h6.png');
+     background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 25px;
+
+}
+.four{
+      width: 600px;
+     height:200px;
+     background-image: url("../img/h1.png");
+     position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section{
+width: 1440px;
+ height: 600px;
+ background-image: url('../img/h1.png');
+}
+input{
+    width: 350px;
+    height: 65px;
+margin-left: 20px;
+margin-bottom: 20px;
+padding-left                                                                                                       : 20px;
+
+
+}
+button{width: 350px;
+    height: 65px;
+margin-left: 15px;}
+
+.awesome{
+    position: relative;
+    bottom: 50px;
+    right: -500px;
+}
+
+.five{width: 1440px;height: 550px; margin-left:470px;position: relative;top: -60px; }
+
+
+    a{text-decoration: none;
+        font-size: 30px;
+        color: aliceblue;
+
+
+    }
